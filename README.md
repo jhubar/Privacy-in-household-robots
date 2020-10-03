@@ -4,7 +4,7 @@
   <img src= https://github.com/julien1941/Privacy-in-household-robots/blob/main/Image/Intercept_Echo_v2-3.5MB-2-1542062294.gif/>
 </p>
 
-# report
+# Report
   1.[Overleaf](https://www.overleaf.com/7211368769hrmysbysvksr)
 
 # Authors
