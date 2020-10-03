@@ -1,6 +1,10 @@
 # [Start Bootstrap - Clean Blog](https://startbootstrap.com/themes/clean-blog/)
 
+<<<<<<< HEAD
 [Clean Blog](https://startbootstrap.com/themes/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+=======
+![](https://github.com/julien1941/Privacy-in-household-robots/blob/main/Image/Intercept_Echo_v2-3.5MB-2-1542062294.gif)
+>>>>>>> 4c62e35e45ee9314c3c20a1f113f8d86463e9396
 
 ## Preview
 
