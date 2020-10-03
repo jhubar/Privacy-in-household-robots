@@ -1,7 +1,7 @@
 # Privacy-in-household-robots
 
 <p align="center">
-  <img src= https://github.com/julien1941/numerical-optimization/blob/master/image/tenor.gif/>
+  <img src= https://github.com/julien1941/Privacy-in-household-robots/blob/main/Image/Intercept_Echo_v2-3.5MB-2-1542062294.gif/>
 </p>
 
 # report
