@@ -6,7 +6,8 @@
 
 
 # Report
- ![hustlin_erd](https://github.com/julien1941/Privacy-in-household-robots/blob/main/Privacy_in_household_robots.pdf)
+
+ [PDF](https://github.com/julien1941/Privacy-in-household-robots/blob/main/Privacy_in_household_robots.pdf)
 
 # Authors
  1. [Julien Hubar](https://github.com/julien1941)
