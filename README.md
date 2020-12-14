@@ -6,7 +6,7 @@
 
 
 # Report
- 1. [Overleaf](https://www.overleaf.com/7211368769hrmysbysvksr)
+ ![hustlin_erd](Privacy_in_household_robots.pdf)
 
 # Authors
  1. [Julien Hubar](https://github.com/julien1941)
